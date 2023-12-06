@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Home",
+      "isDefault": false
+    },
+    {
       "id": "admin",
       "isDefault": false
     },
