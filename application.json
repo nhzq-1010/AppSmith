@@ -15,6 +15,10 @@
     {
       "id": "addLocation",
       "isDefault": false
+    },
+    {
+      "id": "addDriver",
+      "isDefault": false
     }
   ],
   "viewMode": false,
