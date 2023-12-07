@@ -30,7 +30,7 @@
     "text": "orders",
     "key": "lkb6d5m521",
     "isDeprecated": false,
-    "rightColumn": 6,
+    "rightColumn": 10,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "tyzih6xojx",
@@ -48,9 +48,11 @@
     "isLoading": false,
     "mobileTopRow": 58,
     "responsiveBehavior": "fill",
+    "originalTopRow": 58,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 1,
     "maxDynamicHeight": 9000,
+    "originalBottomRow": 63,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }
