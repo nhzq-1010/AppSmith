@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1000,
+          "bottomRow": 2250,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -39,6 +39,22 @@
             {
               "id": "admin_Api2",
               "name": "Api2",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "admin_Api3",
+              "name": "Api3",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "admin_Api4",
+              "name": "Api4",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
