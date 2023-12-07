@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "driver_homepage",
+      "isDefault": false
+    },
+    {
       "id": "rest_menu",
       "isDefault": false
     },
@@ -34,6 +38,10 @@
     },
     {
       "id": "addRestaurant",
+      "isDefault": false
+    },
+    {
+      "id": "restaurant_homePage",
       "isDefault": false
     }
   ],
