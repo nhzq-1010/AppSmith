@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "admin_deleteCustomer",
+      "isDefault": false
+    },
+    {
       "id": "shopping_cart",
       "isDefault": false
     },
