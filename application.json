@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "shopping_cart",
+      "isDefault": false
+    },
+    {
       "id": "driver_homepage",
       "isDefault": false
     },

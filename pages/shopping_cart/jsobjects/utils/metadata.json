@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "shopping_cart",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "activeEditProduct",
+        "value": "null"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "shopping_cart_utils",
+  "deleted": false,
+  "gitSyncId": "657025a2e5d71b0b53f7d88f_657216d6e5d71b0b53f7d9b4"
+}
