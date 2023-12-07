@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Home2",
+      "isDefault": false
+    },
+    {
       "id": "admin_deleteCustomer",
       "isDefault": false
     },
@@ -54,6 +58,10 @@
     },
     {
       "id": "paymentMethods_editPage",
+      "isDefault": false
+    },
+    {
+      "id": "customer_newAddress",
       "isDefault": false
     }
   ],

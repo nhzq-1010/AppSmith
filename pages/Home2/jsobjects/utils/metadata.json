@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Home2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "activeEditProduct",
+        "value": "null"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Home2_utils",
+  "deleted": false,
+  "gitSyncId": "65721ad556d4b3780f928322_6572242b0166cf2341d3c573"
+}
