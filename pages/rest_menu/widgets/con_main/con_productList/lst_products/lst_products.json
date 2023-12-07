@@ -76,7 +76,7 @@
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
     "widgetName": "lst_products",
-    "listData": "{{getProducts.data}}",
+    "listData": "{{getFood.data}}",
     "displayName": "List",
     "bottomRow": 73,
     "parentRowSpace": 10,

@@ -1,46 +1,34 @@
 {
   "unpublishedPage": {
-    "name": "rest_menu",
-    "slug": "rest-menu",
+    "name": "paymentMethods_editPage",
+    "slug": "paymentmethods-editpage",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 950,
+          "bottomRow": 570,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 75,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 770,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "rest_menu_getFood",
-              "name": "getFood",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "rest_menu",
+        "id": "paymentMethods_editPage",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -51,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "657025a2e5d71b0b53f7d88f_65715efce5d71b0b53f7d96d"
+  "gitSyncId": "657025a2e5d71b0b53f7d88f_657171b6e5d71b0b53f7d99f"
 }

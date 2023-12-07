@@ -43,6 +43,10 @@
     {
       "id": "restaurant_homePage",
       "isDefault": false
+    },
+    {
+      "id": "paymentMethods_editPage",
+      "isDefault": false
     }
   ],
   "viewMode": false,
