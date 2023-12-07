@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 174,
-    "bottomRow": 178,
+    "topRow": 199,
+    "bottomRow": 203,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 0,
+    "leftColumn": 1,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "Driver_Vehicle Infromation",
     "key": "wbt2eocjic",
     "isDeprecated": false,
-    "rightColumn": 27,
+    "rightColumn": 28,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "e4kosuu5pl",

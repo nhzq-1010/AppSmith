@@ -1,7 +1,11 @@
 {
   "pages": [
     {
-      "id": "Home2",
+      "id": "rest_menu",
+      "isDefault": false
+    },
+    {
+      "id": "customer_homePage",
       "isDefault": false
     },
     {
@@ -26,6 +30,10 @@
     },
     {
       "id": "addCustomer",
+      "isDefault": false
+    },
+    {
+      "id": "addrestaurant",
       "isDefault": false
     }
   ],

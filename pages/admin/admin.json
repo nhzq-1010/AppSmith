@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 2250,
+          "bottomRow": 2500,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -55,6 +55,14 @@
             {
               "id": "admin_Api4",
               "name": "Api4",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "admin_getDriver",
+              "name": "getDriver",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
