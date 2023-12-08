@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 149,
-    "bottomRow": 153,
+    "topRow": 155,
+    "bottomRow": 159,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.796875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 0,
+    "leftColumn": 1,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -30,7 +30,7 @@
     "text": "Driver information",
     "key": "wbt2eocjic",
     "isDeprecated": false,
-    "rightColumn": 17,
+    "rightColumn": 18,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "j1c3esdrac",
@@ -48,9 +48,11 @@
     "isLoading": false,
     "mobileTopRow": 151,
     "responsiveBehavior": "fill",
+    "originalTopRow": 154,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
+    "originalBottomRow": 158,
     "fontSize": "1.25rem",
     "minDynamicHeight": 4
 }

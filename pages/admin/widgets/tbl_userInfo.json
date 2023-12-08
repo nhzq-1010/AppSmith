@@ -63,7 +63,7 @@
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "columnUpdatedAt": 1701850430635,
-    "originalBottomRow": 66,
+    "originalBottomRow": 31,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 45,
     "widgetName": "tbl_userInfo",
@@ -81,7 +81,7 @@
     ],
     "dynamicPropertyPathList": [],
     "displayName": "Table",
-    "bottomRow": 35,
+    "bottomRow": 30,
     "columnWidthMap": {
         "image": 85,
         "gender": 115,
@@ -419,7 +419,7 @@
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": true,
     "responsiveBehavior": "fill",
-    "originalTopRow": 8,
+    "originalTopRow": 4,
     "mobileLeftColumn": 1,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"

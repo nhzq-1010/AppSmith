@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Home3",
+      "isDefault": false
+    },
+    {
       "id": "Home2",
       "isDefault": false
     },
@@ -62,6 +66,14 @@
     },
     {
       "id": "customer_newAddress",
+      "isDefault": false
+    },
+    {
+      "id": " updaterestaurant",
+      "isDefault": false
+    },
+    {
+      "id": "updaterestaurant",
       "isDefault": false
     }
   ],

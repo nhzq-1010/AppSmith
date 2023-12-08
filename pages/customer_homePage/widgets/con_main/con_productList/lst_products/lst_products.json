@@ -84,7 +84,7 @@
     "templateBottomRow": 16,
     "mobileRightColumn": 25,
     "mainContainerId": "fmyo9itvje",
-    "primaryKeys": "{{lst_products.listData.map((currentItem, currentIndex) => currentItem[\"product_variant_id\"] )}}",
+    "primaryKeys": "{{lst_products.listData.map((currentItem, currentIndex) => currentItem[\"restaurantID\"] )}}",
     "parentColumnSpace": 25.704833984375,
     "dynamicTriggerPathList": [],
     "gridType": "vertical",
