@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 930,
+          "bottomRow": 560,
           "containerStyle": "none",
           "snapRows": 75,
           "parentRowSpace": 1,
@@ -30,14 +30,6 @@
             {
               "id": "restaurant_homePage_getRest",
               "name": "getRest",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "restaurant_homePage_restGetOrder",
-              "name": "restGetOrder",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],

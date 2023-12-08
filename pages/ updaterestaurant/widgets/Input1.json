@@ -28,7 +28,7 @@
     ],
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 16,
+    "originalBottomRow": 15,
     "mobileBottomRow": 15,
     "widgetName": "Input1",
     "displayName": "Input",

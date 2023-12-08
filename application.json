@@ -1,23 +1,7 @@
 {
   "pages": [
     {
-      "id": "Home3",
-      "isDefault": false
-    },
-    {
-      "id": "Home2",
-      "isDefault": false
-    },
-    {
       "id": "admin_deleteCustomer",
-      "isDefault": false
-    },
-    {
-      "id": "shopping_cart",
-      "isDefault": false
-    },
-    {
-      "id": "driver_homepage",
       "isDefault": false
     },
     {
@@ -58,14 +42,6 @@
     },
     {
       "id": "restaurant_homePage",
-      "isDefault": false
-    },
-    {
-      "id": "paymentMethods_editPage",
-      "isDefault": false
-    },
-    {
-      "id": "customer_newAddress",
       "isDefault": false
     },
     {
