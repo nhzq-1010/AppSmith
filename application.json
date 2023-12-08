@@ -13,10 +13,6 @@
       "isDefault": false
     },
     {
-      "id": "Home",
-      "isDefault": false
-    },
-    {
       "id": "admin",
       "isDefault": false
     },
@@ -49,7 +45,7 @@
       "isDefault": false
     },
     {
-      "id": "updaterestaurant",
+      "id": "Page2",
       "isDefault": false
     }
   ],
